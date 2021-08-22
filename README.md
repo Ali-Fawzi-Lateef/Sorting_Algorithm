@@ -1,2 +1,2 @@
-# Soarting_Algorithm
+# Sorting_Algorithm
 A simple sorting algorithm
