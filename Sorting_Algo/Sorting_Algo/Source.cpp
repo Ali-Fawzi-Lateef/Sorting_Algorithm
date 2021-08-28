@@ -15,7 +15,7 @@ int main()
 		}
 		LS.push_back(s);
 	}
-	LS.sort(); // Sort, and then print elements
+	LS.sort(); // Sort, and then print elements.
 	for (iter = LS.begin(); iter != LS.end(); iter++) {
 		cout << *iter << endl;
 	}
